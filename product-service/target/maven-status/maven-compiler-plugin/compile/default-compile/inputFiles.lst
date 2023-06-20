@@ -1,0 +1,7 @@
+/Users/eswaravegi/Practice/microservices-project/product-service/src/main/java/com/emicro/productservice/dto/ProductResponse.java
+/Users/eswaravegi/Practice/microservices-project/product-service/src/main/java/com/emicro/productservice/ProductServiceApplication.java
+/Users/eswaravegi/Practice/microservices-project/product-service/src/main/java/com/emicro/productservice/controller/ProductController.java
+/Users/eswaravegi/Practice/microservices-project/product-service/src/main/java/com/emicro/productservice/repository/ProductRepository.java
+/Users/eswaravegi/Practice/microservices-project/product-service/src/main/java/com/emicro/productservice/model/Product.java
+/Users/eswaravegi/Practice/microservices-project/product-service/src/main/java/com/emicro/productservice/dto/ProductRequest.java
+/Users/eswaravegi/Practice/microservices-project/product-service/src/main/java/com/emicro/productservice/service/ProductService.java

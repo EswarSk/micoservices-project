@@ -1,0 +1,7 @@
+com/emicro/inventoryservice/repository/InventoryRepository.class
+com/emicro/inventoryservice/dto/InventoryResponse$InventoryResponseBuilder.class
+com/emicro/inventoryservice/model/Inventory.class
+com/emicro/inventoryservice/dto/InventoryResponse.class
+com/emicro/inventoryservice/InventoryServiceApplication.class
+com/emicro/inventoryservice/controller/InventoryController.class
+com/emicro/inventoryservice/service/InventoryService.class

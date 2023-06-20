@@ -1,0 +1,10 @@
+com/emicro/productservice/model/Product$ProductBuilder.class
+com/emicro/productservice/dto/ProductResponse.class
+com/emicro/productservice/dto/ProductRequest$ProductRequestBuilder.class
+com/emicro/productservice/ProductServiceApplication.class
+com/emicro/productservice/repository/ProductRepository.class
+com/emicro/productservice/dto/ProductRequest.class
+com/emicro/productservice/service/ProductService.class
+com/emicro/productservice/model/Product.class
+com/emicro/productservice/controller/ProductController.class
+com/emicro/productservice/dto/ProductResponse$ProductResponseBuilder.class

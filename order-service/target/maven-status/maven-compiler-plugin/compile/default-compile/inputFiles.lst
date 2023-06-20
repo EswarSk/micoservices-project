@@ -1,0 +1,11 @@
+/Users/eswaravegi/Practice/microservices-project/order-service/src/main/java/com/emicro/orderservice/dto/OrderRequest.java
+/Users/eswaravegi/Practice/microservices-project/order-service/src/main/java/com/emicro/orderservice/config/WebClientConfig.java
+/Users/eswaravegi/Practice/microservices-project/order-service/src/main/java/com/emicro/orderservice/model/OrderLineItems.java
+/Users/eswaravegi/Practice/microservices-project/order-service/src/main/java/com/emicro/orderservice/service/OrderService.java
+/Users/eswaravegi/Practice/microservices-project/order-service/src/main/java/com/emicro/orderservice/controller/OrderController.java
+/Users/eswaravegi/Practice/microservices-project/order-service/src/main/java/com/emicro/orderservice/model/Order.java
+/Users/eswaravegi/Practice/microservices-project/order-service/src/main/java/com/emicro/orderservice/dto/OrderLineItemsDto.java
+/Users/eswaravegi/Practice/microservices-project/order-service/src/main/java/com/emicro/orderservice/repository/OrderRepository.java
+/Users/eswaravegi/Practice/microservices-project/order-service/src/main/java/com/emicro/orderservice/OrderServiceApplication.java
+/Users/eswaravegi/Practice/microservices-project/order-service/src/main/java/com/emicro/orderservice/dto/InventoryResponse.java
+/Users/eswaravegi/Practice/microservices-project/order-service/src/main/java/com/emicro/orderservice/event/OrderPlacedEvent.java

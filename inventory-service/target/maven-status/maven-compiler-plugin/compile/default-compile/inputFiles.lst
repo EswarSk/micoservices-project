@@ -1,0 +1,6 @@
+/Users/eswaravegi/Practice/microservices-project/inventory-service/src/main/java/com/emicro/inventoryservice/controller/InventoryController.java
+/Users/eswaravegi/Practice/microservices-project/inventory-service/src/main/java/com/emicro/inventoryservice/model/Inventory.java
+/Users/eswaravegi/Practice/microservices-project/inventory-service/src/main/java/com/emicro/inventoryservice/repository/InventoryRepository.java
+/Users/eswaravegi/Practice/microservices-project/inventory-service/src/main/java/com/emicro/inventoryservice/service/InventoryService.java
+/Users/eswaravegi/Practice/microservices-project/inventory-service/src/main/java/com/emicro/inventoryservice/InventoryServiceApplication.java
+/Users/eswaravegi/Practice/microservices-project/inventory-service/src/main/java/com/emicro/inventoryservice/dto/InventoryResponse.java
